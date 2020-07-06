@@ -1,6 +1,6 @@
 on both scripts run with
-chmod +x UpdateToLinuxMint20.sh
-./UpdateToLinuxMint20.sh
-The second script is UpdateToLinuxMint20PART2.sh o clear up dpkg errors if you had any with apt-get
-chmod +x UpdateToLinuxMint20PART2.sh 
+sudo chmod +x UpdateToLinuxMint20.sh
+and ./UpdateToLinuxMint20.sh to execute
+The second script is dedicated clear up dpkg errors if you had any with apt-get.
+sudo chmod +x UpdatetoLinxuMint20PART2.sh then to execute
 ./UpdateToLinuxMint20PART2.sh 
